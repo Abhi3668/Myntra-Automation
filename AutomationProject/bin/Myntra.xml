@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Myntra Test Suite">
+<test name="result">
+<classes>
+<class name="testcases.Testcase1"/>
+</classes>
+</test>
+
+</suite>  
